@@ -1,4 +1,3 @@
 name: web programming
 markdown: kramdown
-
 permalink: /blog/:year/:month/:day/:title
